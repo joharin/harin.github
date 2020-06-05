@@ -4,7 +4,7 @@
       <meta charset="utf-8">
     </head>
     <body>
-        <center><h1 style='font-family:굴림; font-size:20px; font-weight:bold; text-decoration:underline;'>이&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;력&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;서</h1></center>
+        <center><h1 align='center' style='font-family:굴림; font-size:20px; font-weight:bold; text-decoration:underline;'>이&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;력&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;서</h1></center>
         <table cellspacing='1' cellpadding='0' border='0' bgcolor='#000000' align='center' style='font-family:굴림; font-size:10px'>
             <tr align='center'>
                 <td colspan='4'class='t1'>기본정보</td>
