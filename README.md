@@ -1,8 +1,6 @@
 <html>
     <head>        
         <meta charset="utf-8">
-        <style>
-            td bgcolor='#000000'
     </head>
     <body>
         <center><h1 align='center' style='font-family:굴림; font-size:20px; font-weight:bold; text-decoration:underline;'>이&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;력&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;서</h1></center>
