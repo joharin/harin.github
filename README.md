@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
     <head>        
         <meta charset="utf-8">
@@ -142,5 +142,3 @@
                 <td width='162'> </td>
             </tr>
         </table>
-    </body>
-</html>
