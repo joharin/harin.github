@@ -63,17 +63,17 @@
                 <td class='ti' width='162'>근&nbsp;무&nbsp;처</td>
             </tr>
             <tr align='center'>
-                <td width='300'> </td>
+                <td width='300'>&nbsp;</td>
                 <td width='540'> </td>
                 <td width='162'> </td>
             </tr>
             <tr align='center'>
-                <td width='300'> </td>
+                <td width='300'>&nbsp;</td>
                 <td width='540'> </td>
                 <td width='162'> </td>
             </tr>
             <tr align='center'>
-                <td width='300'> </td>
+                <td width='300'>&nbsp;</td>
                 <td width='540'> </td>
                 <td width='162'> </td>
             </tr>
@@ -121,22 +121,22 @@
                 <td class='ti' width='162'>발&nbsp;령&nbsp;처</td>
             </tr>
             <tr align='center'>
-                <td width='300'> </td>
+                <td width='300'>&nbsp;</td>
                 <td width='540'> </td>
                 <td width='162'> </td>
             </tr>
             <tr align='center'>
-                <td width='300'> </td>
+                <td width='300'>&nbsp;</td>
                 <td width='540'> </td>
                 <td width='162'> </td>
             </tr>
             <tr align='center'>
-                <td width='300'> </td>
+                <td width='300'>&nbsp;</td>
                 <td width='540'> </td>
                 <td width='162'> </td>
             </tr>
             <tr align='center'>
-                <td width='300'> </td>
+                <td width='300'>&nbsp;</td>
                 <td width='540'> </td>
                 <td width='162'> </td>
             </tr>
