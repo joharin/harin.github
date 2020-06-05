@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
       <meta charset="utf-8">
@@ -84,7 +83,7 @@
         <div>
         <table cellspacing='1' cellpadding='0' border='0' bgcolor='#000000' align='center' style='font-family:굴림; font-size:10px'>
             <tr align='center'>
-                <td colspan='3'class='ti'>개인능력(어학&nbsp;및&nbsp;컴퓨터활용능력)</td>
+                <td colspan='3' class='ti'>개인능력(어학&nbsp;및&nbsp;컴퓨터활용능력)</td>
             </tr>
             <tr align='center'>
                 <td rowspan='2' class='ti' width='100'>어학</td>
