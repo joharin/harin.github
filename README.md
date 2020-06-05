@@ -2,10 +2,6 @@
 <html>
     <head>
       <meta charset="utf-8">
-      <title>이력서</title>
-      <style>
-        td  {background-color:#FFFFFF; height:25px;}
-      </style>
     </head>
     <body>
         <center><h1 style='font-family:굴림; font-size:20px; font-weight:bold; text-decoration:underline;'>이&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;력&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;서</h1></center>
