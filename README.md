@@ -26,7 +26,6 @@
                 <td colspan='3'>hr_jo@kookmin.ac.kr</td>
             </tr>
         </table>
-        </div>
         <br/>
         <div>
         <table cellspacing='1' cellpadding='0' border='0' bgcolor='#000000' align='center' style='font-family:굴림; font-size:10px'>
@@ -97,7 +96,7 @@
                <td class='ti' width='301'></td>
             </tr>
             <tr align='center'>
-                <td rowspan='3'class='ti' width='100'>컴퓨터활용능력</td>
+                <td rowspan='3' class='ti' width='100'>컴퓨터활용능력</td>
                 <td class='ti' width='100'>QA</td>
                 <td class='ti' width='301'></td>
             </tr>
@@ -115,7 +114,7 @@
         <div>
         <table cellspacing='1' cellpadding='0' border='0' bgcolor='#000000' align='center' style='font-family:굴림; font-size:10px'>
             <tr align='center'>
-                <td colspan='3'class='ti'>자격증&nbsp;및&nbsp;특기사항</td>
+                <td colspan='3' class='ti'>자격증&nbsp;및&nbsp;특기사항</td>
             </tr>
             <tr align='center'>
                 <td class='ti' width='150'>취득년원일</td>
